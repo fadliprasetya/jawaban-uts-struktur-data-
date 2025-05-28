@@ -1,1 +1,1 @@
-ut_strukdat fadli prasetya
+uts_strukdat fadli prasetya
